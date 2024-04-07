@@ -1,9 +1,9 @@
 # Zens Test Flutter
-
+[Live Demo](https://vlv-zens-intern.vercel.app)
 This repository demonstrates the implementation of the MVVM (Model-View-ViewModel) design pattern in Flutter.
 
 ## MVVM Architecture
-
+![vlv-mvvm](https://github.com/volevu17/zens_intern_test/assets/121816250/6f84f4d5-a2ed-4861-a6b2-127bcd5f00ab)
 MVVM is a software architectural pattern that separates the development of graphical user interface (UI) from the business logic or back-end logic (the data model). It consists of three components:
 
 1. **Model**: Represents the data and business logic of the application.
